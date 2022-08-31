@@ -15,5 +15,7 @@ Olá!<br/>
   
   ##
   
+  ![snake gif](https://github.com/caiocosta01/caiocosta01/blob/output/github-contribution-grid-snake.svg)
+  
 
     
